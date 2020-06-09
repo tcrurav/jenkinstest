@@ -1,0 +1,21 @@
+{
+    "name": "tibunode",
+    "version": "1.0.0",
+    "description": "A Hello World HTTP server",
+    "main": "main.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node main.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/tcrurav/jenkinstest.git"
+    },
+    "keywords": [
+      "node",
+      "docker",
+      "dockerfile"
+    ],
+    "author": "tiburcio.cruz@gmail.com",
+    "license": "ISC"
+  }
